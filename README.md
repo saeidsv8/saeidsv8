@@ -34,12 +34,14 @@ My research focuses on wireless communications, real-time monitoring, and optimi
 
 For a broader publication list, please visit my [Aalto University Research Profile](https://research.aalto.fi/en/persons/saeid-sadeghi-vilni/) or [DBLP](https://dblp.org/pid/324/8410.html).
 
+
 ## Academic Profiles
 
+- [Google Scholar](https://scholar.google.com/citations?user=4scVZPgAAAAJ)
 - [Aalto University](https://www.aalto.fi/en/people/saeid-sadeghi-vilni)
 - [ORCID](https://orcid.org/0000-0003-0058-6745)
 - [DBLP](https://dblp.org/pid/324/8410.html)
-- [Google scholar]([https://scholar.google.com/citations?hl=en&user=4scVZPgAAAAJ&view_op=list_works&sortby=pubdate])
+
 
 ## Contact
 
