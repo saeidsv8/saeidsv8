@@ -39,6 +39,7 @@ For a broader publication list, please visit my [Aalto University Research Profi
 - [Aalto University](https://www.aalto.fi/en/people/saeid-sadeghi-vilni)
 - [ORCID](https://orcid.org/0000-0003-0058-6745)
 - [DBLP](https://dblp.org/pid/324/8410.html)
+- [Google scholar]([https://dblp.org/pid/324/8410.html](https://scholar.google.com/citations?hl=en&user=4scVZPgAAAAJ&view_op=list_works&sortby=pubdate))
 
 ## Contact
 
